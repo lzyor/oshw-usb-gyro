@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "sdcc",
+            "compilerPath": "/usr/bin/sdcc",
+            "intelliSenseMode": "linux-gcc-x64",
+            "cStandard": "c23",
+            "cppStandard": "gnu++17",
+            "defines": [
+                "__sfr=unsigned char",
+                "__sbit=int",
+                "__at(a)= ",
+                "__data= ",
+                "__xdata= ",
+                "__interrupt n= ",
+                "__using= "
+            ]
+        }
+    ],
+    "version": 4
+}

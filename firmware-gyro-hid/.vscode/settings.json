@@ -1,0 +1,39 @@
+{
+    "files.associations": {
+        "*.txt": "raw",
+        "*.asm": "asm-collection",
+        "stdbool.h": "c",
+        "stdint.h": "c",
+        "stdio.h": "c",
+        "usb-config.h": "c",
+        "usb-hid.h": "c",
+        "system_error": "c",
+        "usb.h": "c",
+        "sdcard.h": "c",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "algorithm": "c",
+        "type_traits": "cpp",
+        "functional": "c",
+        "tuple": "c",
+        "utility": "c"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.lst": true,
+        "**/*.rst": true,
+        "**/*.sym": true,
+        "**/*.lk": true,
+        "**/*.rel": true,
+        "**/*.map": true,
+        "**/.directory": true,
+        "**/.gitignore": true,
+        "**/.vscode": true
+    }
+}
